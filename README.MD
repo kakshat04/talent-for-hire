@@ -36,4 +36,4 @@ Please add your info to the bottom of the table in an empty row in markdown form
 | Shubham Kapoor | Full stack Developer | India |    Angular, Node, Rest, javascript, HTML, CSS, Java Microservice, Spring  |            :heavy_check_mark: | shubhamkapoor9798@gmail.com|
 | Nirmal Silwal| Python, Deep Learning/ML, Software Engineer |Mumbai, India (open to relocate) | Python, Flask, DeepLearning, Machine Learning, HTML, CSS, Bootstrap, Pytorch, Keras, Linux, Hadoop, AWS |On site, Relocation | nirmaldeepsil.11@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/nirmal-silwal/) |
 | Lauren Clark | Frontend Engineer | London, UK | React, Vue, JavaScript, Redux/Vuex, WordPress, REST, GraphQL, HTML, CSS, jQuery, UX, Git | Remote | lc@laurenclark.io |
-|         |         |             |           |           |            |
+| Kumar Akshat |Senior QA Engineer |Dusseldorf, Germany|QA, Python, Selenium, Embedded Testing, GIT, Automotive, Medical Devices| Remote |kumar.akshat04@gmail.com  https://www.linkedin.com/in/kumar-akshat-2010023b/  |
